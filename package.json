@@ -1,0 +1,29 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giridhar",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.10.0",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.0"
+  },
+  "dependencies": {
+    "gulp-sass": "^2.1.0",
+    "gulp": "^3.9.0",
+    "browser-sync": "^2.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giridhar9/Project1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/giridhar9/Project1/issues"
+  },
+  "homepage": "https://github.com/giridhar9/Project1#readme",
+  "description": ""
+}
